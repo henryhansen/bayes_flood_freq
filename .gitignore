@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+map/
+output/
+plots/
+references/
+stan_files/
